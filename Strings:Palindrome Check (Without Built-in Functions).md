@@ -24,5 +24,7 @@ else:
 
 ## Output
 
+<img width="1579" height="271" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/c55d1c34-7129-4ca1-a923-bb9b42f3e7ca" />
+
 ## Result
 Thus the program is executed successfully.
