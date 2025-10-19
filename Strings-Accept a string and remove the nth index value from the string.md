@@ -28,5 +28,7 @@ def remove(string):
 
 ## Output
 
+<img width="878" height="296" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/191fb26a-3055-4084-84c8-c96a65fb1958" />
+
 ## Result
 Thus program is executed successfully.
