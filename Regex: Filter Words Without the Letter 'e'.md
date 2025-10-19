@@ -23,5 +23,8 @@ l1=[item for item in items if not re.search('e',item)]
 print(l1)
 ## Output
 
+<img width="899" height="423" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/6a36d144-0fde-4f50-8b19-54e10a1315ca" />
+
+
 ## Result
 Thus the Python program that filters out and returns all elements from a list that do not contain the letter 'e', using regular expressions (regex) is created successfully.
