@@ -18,5 +18,8 @@ print("8" in tuplex)
 
 ## Output
 
+<img width="488" height="221" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/b508af12-2b2a-422c-8914-e1d304922d02" />
+
+
 ## Result
 Thus the program is executed successfully
