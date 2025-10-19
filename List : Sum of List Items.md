@@ -17,5 +17,8 @@ print(sum(a))
 
 ## Output
 
+![Uploading Screenshot (86).png…]()
+
+
 ## Result
 Thus the Python program that calculates the sum of all elements in a list is executed successfully.
