@@ -17,7 +17,8 @@ print(sum(a))
 
 ## Output
 
-![Uploading Screenshot (86).png…]()
+<img width="609" height="429" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/7eb6e9b8-9969-41a5-afa7-62dfde131e3d" />
+
 
 
 ## Result
